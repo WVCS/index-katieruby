@@ -1,3 +1,24 @@
-body {
+body {background-color: #a6d3a0}
 
+h2{
+  color #a6d3a0;
+  font-size: 2800;
+  border: dashed 2px lightblue;
+  font-family: 'Cinzel', serif;
+  
+    
+}
+img{border:dotted lightpink 5px }
+
+table, tr, td {
+  border: 1px solid black;
+  border-collapse: collapse; 
+  padding: 10px; 
+}
+
+table {width: 60%; 
+text-align: center;
+}
+li {
+  list-style: inside;
 }
