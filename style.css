@@ -22,3 +22,27 @@ text-align: center;
 li {
   list-style: inside;
 }
+
+#Nav {
+  list-style-type: none;
+  width: 100%; 
+  overflow: hidden;
+  position: fixed; 
+  background-color: lightpink;
+  top: 0; 
+  margin: 0;
+  left: 0; 
+}
+
+li a {
+  display: block; 
+  float: left;
+  padding: 15px; 
+  color: grey;
+}
+
+li a:hover {
+  background-color: lightblue; 
+  color: maroon; 
+}
+
