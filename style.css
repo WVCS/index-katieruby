@@ -34,10 +34,6 @@ li {
   left: 0; 
 }
 
-<head>
-  <link rel="stylesheet" href="style.css">
-</head>
-
 li a {
   display: block; 
   float: left;
