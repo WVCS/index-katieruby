@@ -23,13 +23,13 @@ text-align: center;
   list-style: inside;
 }
 
-skin care table, tr, td {
+skincare table, tr, td {
   border: 1px solid black;
   border-collapse: collapse; 
   padding: 10px; 
 }
 
-skin care table {width: 60%; 
+skincare table {width: 60%; 
 text-align: center;
 }
 #otherList {
