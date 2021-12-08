@@ -23,6 +23,16 @@ text-align: center;
   list-style: inside;
 }
 
+skincare table, tr, td {
+  border: 1px solid black;
+  border-collapse: collapse; 
+  padding: 10px; 
+}
+
+skincare table {width: 60%; 
+text-align: center;
+}
+
 #Nav {
   list-style-type: none;
   width: 100%; 
