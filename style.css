@@ -22,18 +22,6 @@ text-align: center;
 #otherList {
   list-style: inside;
 }
-  <skincare table>
-skincare table, tr, td {
-  border: 1px solid black;
-  border-collapse: collapse; 
-  padding: 10px; 
-}
-skincare table {width: 60%; 
-text-align: center;
-}
-#otherList {
-  list-style: inside;
-}
 
 #Nav {
   list-style-type: none;
