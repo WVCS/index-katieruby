@@ -22,7 +22,7 @@ text-align: center;
 #otherList {
   list-style: inside;
 }
-
+  <skincare table>
 skincare table, tr, td {
   border: 1px solid black;
   border-collapse: collapse; 
